@@ -1,1 +1,1 @@
-# Kotlin-30-Days-of-Code-HackerRank
+# Kotlin 30 Days of Code HackerRank
