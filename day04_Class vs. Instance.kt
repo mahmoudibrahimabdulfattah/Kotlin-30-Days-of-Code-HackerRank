@@ -21,8 +21,6 @@ You are old.
 You are old.
  */
 
-
-
 class Person(initialAge: Int) {
     private var age = 0
 
