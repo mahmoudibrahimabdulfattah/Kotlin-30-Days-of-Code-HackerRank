@@ -22,8 +22,6 @@ Not Weird
 
  */
 
-
-
 fun main() {
     val N = readLine()!!.trim().toInt()
 
@@ -39,6 +37,3 @@ fun main() {
         }
     }
 }
-
-
-
